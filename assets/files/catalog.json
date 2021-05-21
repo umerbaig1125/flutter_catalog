@@ -1,0 +1,71 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 12 pro",
+            "desc": "Apple iPhone 12th generation",
+            "price": 999,
+            "color": "#33505a",
+            "image":"https://img.router-switch.com/media/customoptions/129/2/4/iphone-12-pro-max-blue.jpg"
+        },
+
+        {
+            "id": 2,
+            "name": "Pixel 5",
+            "desc": "Google Pixcel Phone 5th generation",
+            "price": 699,
+            "color": "#00ac51",
+            "image":"https://www.mytrendyphone.se/images/Google-Pixel-5-128GB-Black-PIXEL-5-128B-16102020-01-p.jpg"
+        },
+        {
+            "id": 3,
+            "name": "M1 Mackbook Air",
+            "desc": "Apple Mackbook air with apple silicon",
+            "price": 1099,
+            "color": "#e0bfae",
+            "image":"https://laptopmart.pk/wp-content/uploads/2021/03/Apple-MacBook-Air-13-MGN63.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Playstation 5",
+            "desc": "Sony PlayStation 5th generation",
+            "price": 500,
+            "color": "#544ee4",
+            "image":"https://www.eezepc.com/wp-content/uploads/2020/11/PlayStation-5.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Airpods Pro",
+            "desc": "Apple Airposds Pro 1st generation",
+            "price": 200,
+            "color": "#e3e4e9",
+            "image":"https://unitedstore.pk/wp-content/uploads/2020/06/Airpods-Pro-Wireless-Charging-United-Store-Pakistan.jpg"
+        },
+        {
+            "id": 6,
+            "name": "iPad Pro",
+            "desc": "Apple iPad Pro 2020 edition",
+            "price": 799,
+            "color": "#f73984",
+            "image":"https://www.tejar.pk/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/a/p/apple_ipad_pro_2020_1_-_tejar.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Galaxy S21 Ultra",
+            "desc": "Samsung Galaxy s21 Ultra 2021 edition",
+            "price": 1299,
+            "color": "#1c1c1c",
+            "image":"https://static.toiimg.com/thumb/msid-79272204,width-220,resizemode-4,imgv-0/Samsung-Galaxy-S21-Ultra-5G-512GB-16GB-RAM.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Galaxy S21",
+            "desc": "Samsung galaxy S21 2021 edition",
+            "price": 899,
+            "color": "#7c95eb",
+            "image":"https://www.mytrendyphone.eu/images/Samsung-Galaxy-S21-5G-128GB-Phantom-Grey-8806090892776-18012021-01-p.jpg"
+        }
+
+
+    ]
+}
