@@ -6,7 +6,7 @@
             "desc": "Apple iPhone 12th generation",
             "price": 999,
             "color": "#33505a",
-            "image":"https://img.router-switch.com/media/customoptions/129/2/4/iphone-12-pro-max-blue.jpg"
+            "image":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-blue-hero?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1604021661000"
         },
 
         {
@@ -15,7 +15,7 @@
             "desc": "Google Pixcel Phone 5th generation",
             "price": 699,
             "color": "#00ac51",
-            "image":"https://www.mytrendyphone.se/images/Google-Pixel-5-128GB-Black-PIXEL-5-128B-16102020-01-p.jpg"
+            "image":"https://cdn.shopify.com/s/files/1/0051/8301/2928/products/Pixel5Front-Reformatted_1200x1200.png?v=1605040074"
         },
         {
             "id": 3,
@@ -23,7 +23,7 @@
             "desc": "Apple Mackbook air with apple silicon",
             "price": 1099,
             "color": "#e0bfae",
-            "image":"https://laptopmart.pk/wp-content/uploads/2021/03/Apple-MacBook-Air-13-MGN63.jpg"
+            "image":"https://photos5.appleinsider.com/price_guide/m1-macbook-pro-pp-header.png"
         },
         {
             "id": 4,
@@ -31,7 +31,7 @@
             "desc": "Sony PlayStation 5th generation",
             "price": 500,
             "color": "#544ee4",
-            "image":"https://www.eezepc.com/wp-content/uploads/2020/11/PlayStation-5.jpg"
+            "image":"https://i1.wp.com/freepngimages.com/wp-content/uploads/2020/07/Playstation-5-games-console-transparent-background-png-image.png?fit=1000%2C1000"
         },
         {
             "id": 5,
@@ -39,7 +39,7 @@
             "desc": "Apple Airposds Pro 1st generation",
             "price": 200,
             "color": "#e3e4e9",
-            "image":"https://unitedstore.pk/wp-content/uploads/2020/06/Airpods-Pro-Wireless-Charging-United-Store-Pakistan.jpg"
+            "image":"https://crdms.images.consumerreports.org/c_lfill,w_598/prod/products/cr/models/400116-wireless-portable-headphones-apple-airpods-pro-10009323.png"
         },
         {
             "id": 6,
@@ -47,7 +47,7 @@
             "desc": "Apple iPad Pro 2020 edition",
             "price": 799,
             "color": "#f73984",
-            "image":"https://www.tejar.pk/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/a/p/apple_ipad_pro_2020_1_-_tejar.jpg"
+            "image":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-12-select-wifi-silver-202003_FMT_WHH?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1583551131102"
         },
         {
             "id": 7,
@@ -55,7 +55,7 @@
             "desc": "Samsung Galaxy s21 Ultra 2021 edition",
             "price": 1299,
             "color": "#1c1c1c",
-            "image":"https://static.toiimg.com/thumb/msid-79272204,width-220,resizemode-4,imgv-0/Samsung-Galaxy-S21-Ultra-5G-512GB-16GB-RAM.jpg"
+            "image":"https://lh3.googleusercontent.com/qRQPjHrhRVIs-xnfNSyiPXOH2vH97ylMacgbTKebqJtRfNH3LlYo8pN-5igsLDWUH62tGl5zNpTsl5xd8SprzGmXoCEmWFOi2-2cQVGS-r3PaRXHt62DmJHq-jrYX0UQvWZ9BA=s800-c"
         },
         {
             "id": 8,
@@ -63,7 +63,7 @@
             "desc": "Samsung galaxy S21 2021 edition",
             "price": 899,
             "color": "#7c95eb",
-            "image":"https://www.mytrendyphone.eu/images/Samsung-Galaxy-S21-5G-128GB-Phantom-Grey-8806090892776-18012021-01-p.jpg"
+            "image":"https://images.samsung.com/is/image/samsung/p6pim/pk/galaxy-s21/gallery/pk-galaxy-s21-ultra-5g-g988-sm-g998bzkgmea-368317418?$720_576_PNG$"
         }
 
 
